@@ -5,15 +5,15 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a Computer Science Grad 🎓 from Medi-Caps University,Indore 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development  🕸️ and blockchain Development ⛓ with 2 years on hands-on work experience.
+I'm a Computer Science Grad 🎓 from Medi-Caps University,Indore 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ and blockchain Development ⛓ with 2.5+ years of hands-on work experience.
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Blockchain , React.Js , JavaScript , TypeScript <br /> Nodejs, Express, etc.
+- 🛠 &nbsp; I’m currently working with Blockchain, React.Js, JavaScript, TypeScript <br /> Nodejs, Express, etc.
 - 🚀 &nbsp; Expertise in Blockchain Dapps Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MoFahimKh).
 - 💬 &nbsp; Ask me about anything [here](https://instagram.com/MoFahimKh/)! I am happy to help.

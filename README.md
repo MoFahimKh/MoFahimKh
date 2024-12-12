@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a Computer Science Grad 🎓 from Medi-Caps University,Indore 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ and blockchain Development ⛓ with 2.5+ years of hands-on work experience.
+I'm a Computer Science Grad 🎓 from Medi-Caps University,Indore 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web 🕸️ and blockchain Development ⛓ with 3 years of hands-on work experience.
 
 
 
@@ -19,7 +19,6 @@ I'm a Computer Science Grad 🎓 from Medi-Caps University,Indore 🏛. I'm a pa
 - 💬 &nbsp; Ask me about anything [here](https://instagram.com/MoFahimKh/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: fk0534872@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/MoFahimKh/MoFahimKh/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 

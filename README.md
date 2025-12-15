@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a Computer Science Grad 🎓 from Medi-Caps University, Indore 🏛. A passionate frontend and blockchain developer with 3.5+ years of hands-on experience in building Web2 and Web3 applications. I specialize in ReactJS, NextJS, Redux, TailwindCSS, and Web3 (ethers.js, wagmi, rainbowkit). My expertise spans DeFi protocols (DEXs, AMMs, staking, lending, vaults) and NFT marketplaces.
+I'm a Computer Science Grad 🎓 from Medi-Caps University, Indore 🏛. A passionate frontend and blockchain developer with 4+ years of hands-on experience in building Web2 and Web3 applications. I specialize in ReactJS, NextJS, Redux, TailwindCSS, and Web3 (ethers.js, wagmi, rainbowkit). My expertise spans DeFi protocols (DEXs, AMMs, staking, lending, vaults) and NFT marketplaces.
 I thrive on solving real-world problems with technology and enjoy mentoring and guiding new developers in the blockchain space. 🚀
 
 

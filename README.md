@@ -1,19 +1,17 @@
 ## Hey 👋, I'm [Mohammad Fahim Khan!](https://github.com/MoFahimKh/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medicapsfahim/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/m_fahim_kh/)
 
 ### Glad to see you here! &nbsp;
 
-I'm a Computer Science Grad 🎓 from Medi-Caps University, Indore 🏛. A passionate frontend and blockchain developer with 4+ years of hands-on experience in building Web2 and Web3 applications. I specialize in ReactJS, NextJS, Redux, TailwindCSS, and Web3 (ethers.js, wagmi, rainbowkit). My expertise spans DeFi protocols (DEXs, AMMs, staking, lending, vaults) and NFT marketplaces.
+I'm a Computer Science Grad 🎓 from Medi-Caps University, Indore 🏛. A passionate frontend and blockchain developer with 5+ years of hands-on experience in building Web2 and Web3 applications. I specialize in ReactJS, NextJS, Redux, TailwindCSS, and Web3 (ethers.js, wagmi, rainbowkit). My expertise spans DeFi protocols (DEXs, AMMs, staking, lending, vaults) and NFT marketplaces.
 I thrive on solving real-world problems with technology and enjoy mentoring and guiding new developers in the blockchain space. 🚀
 
 
 
-<img align="right" height="250" width="375" alt="gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<!-- <img align="right" height="250" width="375" alt="gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
 ### What I Do:
-- 🛠   Currently working with ReactJS, NextJS, TypeScript, ethers.js, wagmi, Tailwind CSS
+- 🛠   Currently working with NodeJS, ExpressJS, ReactJS, NextJS, TypeScript, ethers.js, wagmi, Tailwind CSS
 - ⛓️   Expertise in Blockchain DApp Development (Ethereum, Polygon, Optimism, Arbitrum)
 - 🚀   Have experience in DeFi, Smart Contract Integrations, and NFT marketplaces
 - 👨🏻‍💻   Most of my projects are available on Github

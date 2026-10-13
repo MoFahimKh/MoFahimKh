@@ -7,7 +7,7 @@ I thrive on solving real-world problems with technology and enjoy mentoring and 
 
 
 
-<img align="right" height="250" width="375" alt="gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<!-- <img align="right" height="250" width="375" alt="gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
 ### What I Do:
 - 🛠   Currently working with NodeJS, ExpressJS, ReactJS, NextJS, TypeScript, ethers.js, wagmi, Tailwind CSS
